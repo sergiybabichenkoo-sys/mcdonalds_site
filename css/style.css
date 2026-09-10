@@ -525,7 +525,7 @@ opacity: 0.5;
     background-repeat: no-repeat;
 }
 
-/* BACKGROUNDS */
+
 .offer__item:nth-child(1) {
     text-align: right;
     background-image: url("../img/offer/Dairy\ Queen.svg");
@@ -545,7 +545,7 @@ opacity: 0.5;
 }
 
 
-/* TITLE */
+
 .offer__label {
     max-width: 300px;
 
@@ -560,7 +560,7 @@ opacity: 0.5;
 }
 
 
-/* TEXT */
+
 .offer__text {
     max-width: 300px;
 
@@ -597,7 +597,7 @@ opacity: 0.5;
 }
 
 
-/* BUTTON */
+
 .offer__button {
     display: inline-flex;
     align-items: center;
@@ -620,7 +620,7 @@ opacity: 0.5;
 
 
 /* =========================
-   TABLET
+   
    ========================= */
 @media (max-width: 877px) {
     .offer__container {
@@ -640,7 +640,7 @@ opacity: 0.5;
 
 
 /* =========================
-   MOBILE
+   
    ========================= */
 @media (max-width: 600px) {
     .offer__container {
@@ -672,7 +672,7 @@ opacity: 0.5;
 
 
 /* =========================
-   SMALL MOBILE
+  
    ========================= */
 @media (max-width: 400px) {
     .offer__container {
@@ -856,7 +856,7 @@ padding-left: 323px;
     background-image: url('../img/p/location.png');
 }
 
-/* MENU */
+
 .menu-footer__title {
     font-family: roboto-medium;
     text-transform: uppercase;
@@ -917,7 +917,7 @@ padding-left: 323px;
 
 
 /* =========================
-   TABLET
+   
    ========================= */
 @media (max-width: 991.98px) {
     .footer {
@@ -940,7 +940,7 @@ padding-left: 323px;
 
 
 /* =========================
-   MOBILE
+   
    ========================= */
 @media (max-width: 767.98px) {
     .footer {
@@ -988,7 +988,7 @@ padding-left: 323px;
 
 
 /* =========================
-   SMALL MOBILE
+   
    ========================= */
 @media (max-width: 479.98px) {
     .footer {
@@ -1021,9 +1021,7 @@ padding-left: 323px;
 }
 
 /* =========================================================
-   ДОДАНІ ВИПРАВЛЕННЯ АДАПТИВНОСТІ
-   (hero__title, price__items, review__items, add__title
-   не мали медіа-запитів і ламали верстку на вузьких екранах)
+ 
    ========================================================= */
 @media (max-width: 877px) {
     .hero__title {
